@@ -1,33 +1,17 @@
-Package: com.OSHstarREPO.icons
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: OSH★ <oshstar@californiamail.com>
-Filename: ./debs/com.oshstarrepo.icons_1.1_iphoneos-arm.deb
-Size: 692
-MD5sum: db23222626039210cee69b27ac0221c1
-SHA1: ec98491feb45d5cef363784f9b797c8a3ccdda0e
-SHA256: 16923a670f9566652c44a51527960bee8d64a546063c17c21ea818efd6d2f178
-Section: Tweaks
-Description: Adds Icon Images
-Author: OSH★
-Depiction: https://github.com/OSHstar/OSHstar.github.io
-Name: icons
-
-Package: com.sull.spotify4all
+Package: com.OSHstarREPO.spotify4all
 Version: 2.4.0.1822
 Architecture: iphoneos-arm
-Maintainer: insanelyi <noreply@insanelyi.com>
+Maintainer: OSH★ <oshstar@californiamail.com>
 Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.sull.spotify4all_2.4.0.1822_iphoneos-arm.deb
-Size: 13140
-MD5sum: 53cc220620c577006136be65c305cbe2
-SHA1: e20b4ba822311bba839eb2f6d1fe94a8e13cddbf
-SHA256: 2aa7fea54cd7d7b79de71dc51c99f947b57959aa468f3bf856131e49977f6cde
-Section: iTweaks
-Homepage: http://insanelyi.com
-Description: Free Premium Subscription for Spotify. Works with any Spotify app version since 2.0.
+Filename: ./debs/com.oshstarrepo.spotify4all_2.4.0.1822_iphoneos-arm.deb
+Size: 13074
+MD5sum: decc3ce74bf386668c0a43dc1ba65539
+SHA1: 2748423f1c319283ce7260be5f5499d89963ff1c
+SHA256: 950efdfc834308596d21dcae479ec0a758b8b57607fd723ba2dc23341abd4ef2
+Section: Tweaks
+Homepage: http://www.oshstararchive.wordpress.com/
+Description: Free Premium Subscription for Spotify 2.0.+
 Author: Radu Ursache
-Depiction: http://repo.insanelyi.com/depiction.php?package=spotify4all
+Depiction: https://github.com/OSHstar/OSHstar.github.io
 Name: Spotify4All
-Sponsor: insanelyi <http://insanelyi.com>
 
