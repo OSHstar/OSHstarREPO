@@ -1,12 +1,12 @@
 Package: com.OSHstarREPO.icons
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: OSH★ <oshstar@californiamail.com>
-Filename: ./debs/com.oshstarrepo.icons_1.0_iphoneos-arm.deb
+Filename: ./debs/com.oshstarrepo.icons_1.1_iphoneos-arm.deb
 Size: 688
-MD5sum: 077dbb034df421b2cec0259b38de84bc
-SHA1: 000570a765406c0adc796882ce28142828540445
-SHA256: abd3f61bb6f54bc9d29b9d1ae30d2b75b6b13673ae06012fa2f7bdde0eb32392
+MD5sum: 19f70df5cc41c6b61e69cabafaea67f5
+SHA1: 43965978a858e5ce57d7be344e0b99ab4278010a
+SHA256: 6793fa2a4edd199b8577f3cfdcec040b171cc196dfec4dddbf190dbf598bf2f6
 Section: Tweaks
 Description: Adds Icon Images
 Author: OSH★
