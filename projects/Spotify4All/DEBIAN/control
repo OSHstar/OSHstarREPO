@@ -1,0 +1,12 @@
+Package: com.sull.spotify4all
+Section: iTweaks
+Maintainer: insanelyi <noreply@insanelyi.com>
+Architecture: iphoneos-arm
+Version: 2.4.0.1822
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
+Description: Free Premium Subscription for Spotify. Works with any Spotify app version since 2.0.
+Name: Spotify4All
+Author: Radu Ursache
+Homepage: http://insanelyi.com
+Depiction: http://repo.insanelyi.com/depiction.php?package=spotify4all
+Sponsor: insanelyi <http://insanelyi.com>
