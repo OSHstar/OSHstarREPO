@@ -4,7 +4,7 @@ Maintainer: OSH★ <oshstar@californiamail.com>
 Architecture: iphoneos-arm
 Version: 1.8.5.105
 Depends: firmware (>= 6.0)
-Description: Spotify Music by Spotify Ltd.
+Description: By Spotify Ltd.
 Name: Spotify iOS 6
 Author: Spotify Ltd.
 Depiction: https://github.com/OSHstar/OSHstar.github.io

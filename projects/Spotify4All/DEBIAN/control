@@ -3,8 +3,8 @@ Section: Tweaks
 Maintainer: OSH★ <oshstar@californiamail.com>
 Architecture: iphoneos-arm
 Version: 2.4.0.1822
-Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader, spotifyios6 (>= 1.0)
-Description: Free Premium Subscription for Spotify 2.0.+
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
+Description: Enable Spotify Premium features for free.
 Name: Spotify4All
 Author: Radu Ursache
 Homepage: http://www.oshstararchive.wordpress.com/
