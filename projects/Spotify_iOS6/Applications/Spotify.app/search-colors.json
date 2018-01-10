@@ -1,7 +1,0 @@
-{
-    "searchHistoryCellIconColor": "secondaryTextColor",
-    "searchHistoryCellTextColor": "primaryTextColor",
-    "searchHistoryCellClearSearchesTextColor": "secondaryTextColor",
-    "searchSuggestionCellIconColor": "searchHistoryCellIconColor",
-    "searchRadioIconColor": "glueGray55Color"
-}

@@ -1,0 +1,22 @@
+{
+    "headerTextColor~nocat": "424243",
+    "headerShadowColor~nocat": "whiteColor",
+    "headerAnnotationButtonTextColor~nocat": "whiteColor",
+    "headerSubtitleTextColor~nocat": "A09F9F",
+    "headerAnnotationTextColor~nocat": "424242",
+    "headerIconColor~nocat" : "blackColor",
+    "headerClearColor": "catClearColor",
+    "primaryHeaderButtonTextColor~nocat": "whiteColor",
+    "primaryHeaderButtonSelectedTextColor~nocat": "e6e6e6",
+    "primaryHeaderButtonDisabledTextColor~nocat": "ffffff99",
+    "primaryHeaderButtonTextShadowColor~ipad": "00000073",
+    "headerButtonTextColor~nocat": "666666",
+    "headerButtonSelectedTextColor~nocat": "4d4d4d",
+    "headerButtonDisabledTextColor~nocat": "999999",
+    "headerButtonTextShadowColor~nocat": "ffffff73",
+    "albumMetadataViewIconColor": "glueGray55Color",
+    "albumMetadataViewArtistImageBackgroundColor": "placeholderBackgroundColor",
+    "albumMetadataViewArtistImageIconColor": "placeholderIconColor",
+    "albumMetadataViewArtistImageBorderColor": "catClearColor",
+    "artistCopyrightTextColor": "glueGray55Color"
+}

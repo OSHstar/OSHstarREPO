@@ -1,0 +1,24 @@
+{
+    "playlistMetadataViewIconColor": "glueGray55Color",
+    "playlistMetadataViewAuthorImageBackgroundColor": "placeholderBackgroundColor",
+    "playlistMetadataViewAuthorImageIconColor": "placeholderIconColor",
+    "playlistMetadataViewAuthorImageBorderColor": "catClearColor",
+    "playlistAvailableOfflineCellBackgroundColor": "glueGray12Color",
+    "playlistAvailableOfflineSwitchOnTintColor": "glueGreenColor",
+    "playlistCreatePlaylistBackgroundColor": "primaryBackgroundColor",
+    "playlistCreatePlaylistTextFieldBackgroundViewColor": "glueGray12Color",
+    "playlistCreatePlaylistTextFieldTextColor": "primaryTextColor",
+    "playlistCreatePlaylistTextFieldSeparatorColor": "separatorColor",
+
+    "playlistSpecialTableHeaderViewFilterBarTintColor": "glueBlackColor",
+    "playlistSpecialTableHeaderViewFilterFieldTextColor": "glueWhiteColor",
+    "playlistSpecialTableHeaderViewFilterFieldBackgroundColor": "glueGray15Color",
+
+    "playlistContextMenuActionIconColor": "secondaryTextOnDarkColor",
+    "playlistOfflineSyncButtonNormalIconColor": "glueGray25Color",
+    "playlistOfflineSyncButtonActiveIconColor": "glueGreenLightColor",
+    
+    "playlistAudioTouchIntroTooltipBackgroundColor": "009dbc",
+    "playlistAudioTouchIntroTooltipTextColor": "glueWhiteColor"
+
+}

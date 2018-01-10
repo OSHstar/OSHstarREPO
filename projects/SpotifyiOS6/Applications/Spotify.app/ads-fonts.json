@@ -1,0 +1,7 @@
+{
+    "adBarTitleFont" : {
+        "name": "ProximaNova-Semibold",
+        "size": 13
+    },
+    "adBarTitleFont~ipad" : "spotifySubtitle1BoldStaticFont"
+}

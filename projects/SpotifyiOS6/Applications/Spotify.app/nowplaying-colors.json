@@ -1,0 +1,51 @@
+{
+    "nowPlayingWhiteColor": {
+        "base": "glueWhiteColor",
+        "alpha": 0.7
+    },
+
+    "nowPlayingTitleViewEntityDescriptionColor" : "secondaryTextOnBlurredColor",
+    "nowPlayingTitleViewEntityNameColor" : "primaryTextOnBlurredColor",
+    "nowPlayingCollectionButtonColor" : "nowPlayingWhiteColor",
+    "nowPlayingCollectionButtonAddedBorderColor" : "glueGreenColor",
+    "nowPlayingViewContextMenuButtonColor" : "nowPlayingWhiteColor",
+    "nowPlayingViewTitleLabelColor" : "primaryTextOnBlurredColor",
+    "nowPlayingViewArtistLabelColor" : "secondaryTextOnBlurredColor",
+    "nowPlayingViewTimeTakenLabelColor" : "primaryTextOnDarkColor",
+    "nowPlayingViewTimeRemainingLabelColor" : "nowPlayingViewTimeTakenLabelColor",
+    "nowPlayingViewRadioThumbUpButtonColor" : "primaryTextOnBlurredColor",
+    "nowPlayingViewRadioThumbDownButtonColor" : "primaryTextOnBlurredColor",
+    "nowPlayingViewRadioThumbUpDisabledButtonColor" : "nowPlayingWhiteColor",
+    "nowPlayingViewRadioThumbDownDisabledButtonColor" : "nowPlayingWhiteColor",
+    "nowPlayingViewRadioThumbUpSelectedButtonColor" : "glueGreenColor",
+    "nowPlayingViewRadioThumbDownSelectedButtonColor" : "glueRedColor",
+    "nowPlayingShuffleButtonShufflingColor" : "glueGreenColor",
+    "nowPlayingShuffleButtonNotShufflingColor" : "nowPlayingWhiteColor",
+    "nowPlayingRepeatButtonRepeatingColor" : "glueGreenColor",
+    "nowPlayingRepeatButtonNotRepeatingColor" : "nowPlayingWhiteColor",
+    "nowPlayingViewPreviousButtonColor" : "primaryTextOnBlurredColor",
+    "nowPlayingPlayButtonColor" : "primaryTextOnBlurredColor",
+    "nowPlayingPlayButtonCircleColor" : "primaryTextOnBlurredColor",
+    "nowPlayingBarPlayButtonColor" : "primaryTextOnBlurredColor",
+    "nowPlayingViewNextButtonColor" : "primaryTextOnBlurredColor",
+    "nowPlayingViewConnectButtonColor" : "nowPlayingWhiteColor",
+    "nowPlayingTitleViewButtonColor" : "catWhiteColor",
+    "nowPlayingBarStepScrollBackgroundColor" : "catClearColor",
+    "nowPlayingBarSubtitleBackgroundColor" : "catClearColor",
+    "nowPlayingBarSubtitleFontColor" : "glueGray90Color",
+    "nowPlayingBarTitleBackgroundColor" : "catClearColor",
+    "nowPlayingBarTitleFontColor" : "primaryTextOnDarkColor",
+    "nowPlayingBarHighlightColor" : {
+        "base": "glueWhiteColor",
+        "alpha": 0.10
+    },
+    "nowPlayingQueuePrefixViewColor": "glueGreenLightColor",
+    "nowPlayingQueueFooterViewLabelColor" : "glueGray90Color",
+    "nowPlayingQueueBadgeTextColor": "glueGray8Color",
+    "nowPlayingQueueBadgeBackgroundColor" : "catWhiteColor",
+    "nowPlayingQueueBadgeHighlightedBackgroundColor" : "catWhiteColor",
+    "nowPlayingBarTopSeparatorColor~ipad" : "catWhiteColor",
+    "nowPlayingBarTitleLabelColor~ipad" : "catWhiteColor",
+    "nowPlayingBarCoverArtHighlightedColor~ipad" : "glueBlackColor"
+    
+}

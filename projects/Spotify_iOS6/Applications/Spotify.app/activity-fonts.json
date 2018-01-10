@@ -1,8 +1,0 @@
-{
-    "activityEntityImageTitleLabelFont" : "labelDefaultFont",
-    "activityEntitySharerNameLabelFont": "spotifyTitle1Font",
-    "activityEntityTimestampFont": "spotifyMetadata2Font",
-    "activityEntitySubTitleTextFont": "spotifySubtitle1Font",
-    "activityEntitySummaryTextFont": "labelDefaultFont",
-    "activityEntityReplaysLabelFont": "spotifyMetadata2Font"
-}

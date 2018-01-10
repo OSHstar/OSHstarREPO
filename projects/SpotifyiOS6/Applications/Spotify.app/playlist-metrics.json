@@ -1,0 +1,50 @@
+{
+    "playlistMetadataViewDescriptionLabelTopMargin": 64,
+    "playlistMetadataViewInnerWidth": 244,
+    
+    "playlistMetadataViewWithDescriptionAuthorMetadataLabelTopMargin": 21,
+    "playlistMetadataViewAuthorMetadataLabelTopMargin": 110,
+    
+    "playlistMetadataViewAuthorImageTopMargin": 7,
+    "playlistMetadataViewAuthorImageSize": [64, 64],
+    "playlistMetadataViewAuthorSmallImageSize": [32, 32],
+    "playlistMetadataViewAuthorImagePlacecholderIconSize": [32, 32],
+    "playlistMetadataViewAuthorSmallImagePlaceholderIconSize": [16, 16],
+    "playlistMetadataViewAuthorImageBorderWidth": 1,
+    "playlistMetadataViewAuthorImageCornerRadius": 32,
+    "playlistMetadataViewAuthorPlaceholderImageVerticalAdjustmentMetric": 2,
+    
+    "playlistMetadataViewAuthorButtonTopMargin": 6,
+    
+    "playlistMetadataViewTotalDurationLastModifiedTopMargin": 22,
+    "playlistMetadataViewTotalDurationLastModifiedBottomMargin": 18,
+    "playlistMetadataViewIconSize": [14, 14],
+    "playlistMetadataViewIconHorizontalMargin": 6,
+    
+    "playlistSpecialTableHeaderViewHeight": 115,
+    "playlistSpecialTableHeaderViewShuffleButtonTopMargin": 16,
+    "playlistSpecialTableHeaderViewBottomLineHeight": 1,
+
+    "playlistFilterCancelButtonTitleEdgeInsets": [0, 10, 0, 10],
+    "playlistTableViewInitialContentOffset": [0, 70],
+    "playlistTableViewEmptyFilterAlpha": 0.3,
+    
+    "playlistCreatePlaylistBackgroundViewHeight": 47,
+    "playlistCreatePlaylistBackgroundViewBorderHeight": 1,
+    "playlistCreatePlaylistTextFieldLabelHorizontalMargin": 10,
+    "playlistCreatePlaylistCreateButtonTopMargin": 13,
+    
+    "playlistOfflineSyncAccessoryButtonSize": [44, 64],
+    "playlistOfflineSyncAccessoryButtonIconSize": [24, 24],
+    "playlistOfflineSyncAccessoryButtonCircleSize": [24, 24],
+    "playlistOfflineSyncAccessoryButtonCircleLineWidth": 1.0,
+
+    "playlistsCellIconSize": [32, 32],
+    "playlistsCellRowHeight": 65,
+    
+    "playlistAudioTouchIntroDelayDuration": 5,
+    "playlistAudioTouchIntroTooltipHeight": 50,
+    "playlistAudioTouchIntroTooltipMargin": 45,
+    "playlistAudioTouchIntroTooltipArrowMetric": 0.75,
+    "playlistAudioTouchIntroTooltipArrowHeight": 7
+}

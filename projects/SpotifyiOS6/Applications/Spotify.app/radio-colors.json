@@ -1,0 +1,22 @@
+{
+    "radioDeleteStationIconColor": "primaryTextColor",
+
+    "radioGenreCellNormalTextColor": "primaryTextColor",
+    "radioGenreCellActiveTextColor": "activeTextColor",
+    "radioGenreCellNormalTextColor~nocat": "glueGray25Color",
+    "radioGenreCellActiveTextColor~nocat": "activeTextColor",
+
+    "radioGenreIconNormalColor": "glueGray55Color",
+    "radioGenreIconActiveColor": "activeTextColor",
+
+    "radioCreateStationButtonNormalTextColor": "catWhiteColor",
+    "radioCreateStationButtonHighlightedTextColor": "secondaryTextColor",
+    "radioCreateStationButtonSelectedTextColor": "secondaryTextColor",
+
+    "radioIconNormalColor": "glueGray55Color",
+    "radioIconActiveColor": "glueGreenLightColor",
+
+    "radioIconNormalColor~nocat": "glueGray25Color",
+    "radioIconActiveColor~nocat": "activeTextColor",
+    "radioTitleButtonIconColor" : "glueWhiteColor"
+}

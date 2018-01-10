@@ -1,0 +1,71 @@
+<html>
+<meta name = "viewport" content = "user-scalable=no, width=320, initial-scale=1.0">
+
+<style>
+
+body, html, div, p, h1, h2 {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	width: 320px;
+	background-color: #ecebe8;
+	color: #464646;
+}
+
+p, div, h1, h2 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-rendering: optimizeLegibility;
+}
+
+#review {
+	padding: 0 14px 24px;
+}
+
+h1 {
+	font-size: 18px;
+	margin-top: 26px;
+	line-height: 24px;
+}
+
+
+a {
+	text-decoration: none;
+	color: #007fd0;
+	border-bottom: 1px dotted #007fd0;
+}
+
+.year {
+	font-weight: normal;
+}
+
+h2 {
+	color: #8a8a8a;
+	font-weight: normal;
+	font-size: 14px;
+	margin-bottom: 22px;
+	line-height: 12px;
+}
+
+p {
+	font-size: 14px;
+	line-height: 24px;
+	margin-bottom: 24px;
+}
+
+</style>
+<body>
+
+<div id="review">
+<h1>{ALBUM} <span class="year">{YEAR}</span></h1>
+<h2>{ARTIST}</h2>
+
+<p id="review-body">
+{BODY}
+</p>
+
+</div>
+
+</body>
+</html>

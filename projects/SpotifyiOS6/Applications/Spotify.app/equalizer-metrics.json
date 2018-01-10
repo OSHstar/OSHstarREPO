@@ -1,0 +1,10 @@
+{
+    "equalizerTableHeight" : 255.0,
+    "equalizerLineWidth" : 1.0,
+    "equalizerThumbSize" : "sliderThumbSize",
+    "equalizerKnobLineWidth" : 5.0,
+    "equalizerColumnViewHeight" : 210.0,
+    "equalizerOnSwitchRightPaddingMetric" : 15.0,
+    "equalizerKnobTouchRadiusMetric" : 44.0,
+    "equalizerConnectGearsIconSize" : [ 90, 90 ]
+}

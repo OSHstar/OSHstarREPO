@@ -1,0 +1,16 @@
+{
+    "contextMenuHeaderTitleFont": {
+        "name": "ProximaNova-Semibold",
+        "size": 18
+    },
+    "contextMenuHeaderSubtitleFont": "spotifySubtitle1Font",
+    "contextMenuHeaderMetadataFont": "spotifyMetadata1StaticFont",
+    "contextMenuAlbumButtonFont~ipad": {
+        "name": "system-font-bold",
+        "size": 24
+    },
+    "contextMenuArtistButtonFont~ipad": {
+        "name": "system-font-bold",
+        "size": 14
+    }
+}

@@ -1,9 +1,0 @@
-{
-    "actionShuffleButtonTextColor" : "glueWhiteColor",
-    "actionShuffleButtonTextColor~premium-a" : "primaryTextColor",
-    "actionShuffleButtonTextColor~premium-b" : "primaryTextColor",
-
-    "actionShuffleButtonBackgroundColor" : "actionButtonLargePrimaryBackgroundColor",
-    "actionShuffleButtonBackgroundColor~premium-a" : "primaryBackgroundColor",
-    "actionShuffleButtonBackgroundColor~premium-b" : "primaryBackgroundColor"
-}

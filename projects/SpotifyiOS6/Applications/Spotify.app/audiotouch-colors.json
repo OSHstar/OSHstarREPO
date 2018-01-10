@@ -1,0 +1,8 @@
+{
+    "audiotouchActiveColor": "303030",
+    "audiotouchAddBackgroundColor": "glueGreenLightColor",
+    "audiotouchAddIconColor": "glueWhiteColor",
+    "audiotouchPreviewNameColor": "glueWhiteColor",
+    "audioTouchPreviewNameLabelBackgroundColor" : "clearColor",
+    "audioTouchPreviewTrackNameColor": "glueGray70Color"
+}

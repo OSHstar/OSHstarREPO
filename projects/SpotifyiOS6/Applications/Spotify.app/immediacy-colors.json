@@ -1,0 +1,14 @@
+{
+    "immediacyCardCellPlaylistLabelBackgroundColor" : "clearColor",
+    "immediacyCardCellPlaylistLabelTextColor" : "glueWhiteColor",
+    "immediacyCardCellSongsLabelBackgroundColor" : "clearColor",
+    "immediacyCardCellSongsLabelTextColor" : "glueWhiteColor",
+    "immediacyCardCellArtistsLabelBackgroundColor" : "clearColor",
+    "immediacyCardCellArtistsLabelTextColor" : "glueGray55Color",
+    "immediacyCardCellBackgroundColor" : "646464",
+    "immediacyViewButtonColor" : "catWhiteColor",
+    "immediacyPlayButtonColor" : "primaryTextOnBlurredColor",
+    "immediacyPlayButtonCircleColor" : "primaryTextOnBlurredColor",
+    "immediacyViewPreviousButtonColor" : "primaryTextOnBlurredColor",
+    "immediacyViewNextButtonColor" : "primaryTextOnBlurredColor"
+}

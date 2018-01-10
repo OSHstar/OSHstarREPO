@@ -1,0 +1,9 @@
+{
+    "radioGenreTableViewRowHeight": 47,
+    "radioGenreTableViewCellImageSize": [26.66, 20],
+    
+    "radioTableViewHeaderViewLabelTopMargin": 20,
+    "radioTableViewHeaderEditButtonTopMargin": 16.75,
+    "radioTableViewHeaderEditButtonWidth": 50,
+    "radioTitleButtonSize" : [22, 22]
+}

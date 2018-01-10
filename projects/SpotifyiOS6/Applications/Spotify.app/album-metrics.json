@@ -1,0 +1,47 @@
+{
+    "albumTableViewCellHeight~ipad" : 50,
+    "headerViewMargin~ipad": 20,
+    "headerTextToButtonsMargin": 7,
+    "headerButtonLeftMargin": 20,
+    "headerButtonRightMargin": 10,
+    "headerButtonContainerHeight": 50,
+    "headerButtonMargin": 12,
+    "headerShadowOffsetSize~ipad": [0, 1],
+    "headerIconSyncSize~ipad": [17, 18],
+    "headerIconShareSize~ipad": [24, 19],
+    "headerIconBrowseArtistSize~ipad": [20, 18],
+    "headerIconRadioSize~ipad": [20, 18],
+    "headerIconAddSize~ipad": [13, 14],
+    "headerButtonSize~ipad": [48, 28],
+    "headerButtonWithImageSize~ipad": [39, 28],
+    "headerButtonInsets~ipad": [0, 10, 0, 10],
+    "headerSeparatorViewHeight": 2,
+    "headerButtonAnimationLength": 0.3,
+    "headerTextVerticalMargin": 4,
+    "headerTitleConstraintHeight": 44,
+    "headerTitleUpperMargin": 15,
+    "headerSubtitleUpperMargin": 2,
+    "headerLabelLineNumberMetric": 0,
+
+    "albumMetadataViewInnerWidth": 244,
+
+    "albumMetadataViewArtistMetadataLabelTopMargin": 105,
+    "albumMetadataViewArtistMetadataLabelBottomMargin": 180,
+
+    "albumMetadataViewArtistImageTopMargin": 7,
+    "albumMetadataViewArtistImageSize": [64, 64],
+    "albumMetadataViewArtistImagePlaceholderIconSize": [16, 16],
+    "albumMetadataViewArtistImageBorderWidth": 1,
+    "albumMetadataViewArtistImageCornerRadius": 32,
+    "albumMetadataViewArtistPlaceholderImageVerticalAdjustmentMetric": 2,
+
+    "albumMetadataViewArtistButtonTopMargin": 6,
+
+    "albumMetadataViewMetadataTextTopMargin": 22,
+    "albumMetadataViewIconSize": [14, 14],
+    "albumMetadataViewIconHorizontalMargin": 6,
+
+    "albumHeaderInitialContentInsets": [-64, 0, 22, 0],
+
+    "albumLegacyHeaderViewHeight": 540
+}

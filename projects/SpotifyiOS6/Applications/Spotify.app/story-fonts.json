@@ -1,0 +1,5 @@
+{
+    "storyEntityImageTitleLabelFont" : "labelDefaultFont",
+    "storyEntityTitleTextFont": "tabControlFont",
+    "storyEntityDescriptionTextFont": "labelDefaultFont"
+}

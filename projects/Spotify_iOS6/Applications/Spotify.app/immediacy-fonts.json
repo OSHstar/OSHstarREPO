@@ -1,8 +1,0 @@
-{
-    "immediacyCardCellPlaylistLabelFont" : {
-        "name": "ProximaNova-Regular",
-        "size": 20
-    },
-    "immediacyCardCellSongsLabelFont" : "spotifyTitle1Font",
-    "immediacyCardCellArtistsLabelFont" : "spotifySubtitle1Font"
-}

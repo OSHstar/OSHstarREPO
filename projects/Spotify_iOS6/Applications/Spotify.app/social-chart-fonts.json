@@ -1,9 +1,0 @@
-{
-    "socialChartInfluencersViewListenersDataFont": "spotifySubtitle1Font",
-    "socialChartInfluencersViewTitleFont": "spotifyMetadata1Font",
-    
-    "socialChartEntityRankFont": "tableViewCellTitleFont",
-    "socialChartEntityRankShuffleFont": "tableViewCellNonInteractiveTitleFont",
-    
-    "socialChartFooterLabelFont": "sidebarBadgeFont"
-}

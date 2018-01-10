@@ -1,0 +1,24 @@
+{
+    "artistCalendarHeaderFont": {
+        "name": "ProximaNova-Bold",
+        "size": 10
+    },
+    "artistCalendarBodyFont": {
+        "name": "ProximaNova-Semibold",
+        "size": 20
+    },
+    
+    "artistCalendarHeaderFont~nocat": {
+        "name": "system-font-bold",
+        "size": 10
+    },
+    "artistCalendarBodyFont~nocat": {
+        "name": "system-font-bold",
+        "size": 20
+    },
+    
+    "artistTopTracksPrefixViewFont": "spotifyTitle1StaticFont",
+    "artistSummaryTableViewCellFont": "tableViewCellTitleFont",
+    
+    "artistBiographyFont": "spotifyBodyFont"
+}

@@ -1,0 +1,28 @@
+{
+    "storyListDefaultMargin" : 10,
+
+    "storyEntityDefaultMargin" : 10,
+    "storyEntityExtraExtraLargeMargin" : 50,
+    "storyEntityExtraLargeMargin" : 30,
+    "storyEntityLargeMargin" : 20,
+    "storyEntityMediumMargin" : 15,
+    "storyEntitySmallMargin" : 5,
+    "storyEntityTinyMargin" : 3,
+    "storyEntityIconHorizontalMargin" : 60,
+    "storyEntityIconVerticalMargin" : 35,
+    "storyEntityMaxLabelHeight" : 90,
+    "storyEntityDetailLabelWidth" : 120,
+    
+    "storyEntityImageSize" : [215, 215],
+    "storyEntitySize" : [320, 300],
+
+    "storyEntityDefaultIconSize" : [32, 32],
+    "storyEntitySmallIconSize" : [20, 20],
+    "storyEntityMediumIconSize" : [28, 28],
+    "storyEntityLargeIconSize" : [48, 48],
+    
+    "storyEntityTextMargin" : 8.5,
+    "storyEntitySeparatorHeight" : 0.3,
+    
+    "storyEntityHighlightedAlphaMetric": 0.5
+}

@@ -1,0 +1,9 @@
+{
+    "gaiaDevicePickerHeaderLabelFont": "tableViewCellSubtitleFont",
+
+    "gaiaPopupMessageLabelFont~gaia-transfer": "popupMessageFont",
+    "gaiaPopupMessageLabelFont~gaia-onboarding": "popupTitleFont",
+    "gaiaPopupDeviceLabelFont~gaia-transfer": "popupTitleFont",
+    "gaiaPopupDeviceLabelFont~gaia-onboarding": "popupMessageFont",
+    "gaiaPopupDetailLabelFont": "popupMessageFont"
+}

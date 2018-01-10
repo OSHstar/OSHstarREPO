@@ -1,0 +1,71 @@
+{
+    "spotifyTitle1Font~nocat": {
+        "name": "system-font-bold",
+        "size": 17
+    },
+    "spotifyTitle2Font~nocat": {
+        "name": "system-font-bold",
+        "size": 11
+    },
+    "spotifyHeadingFont~nocat": {
+        "name": "system-font-bold",
+        "size": 27
+    },
+    "spotifySubtitle1Font~nocat": {
+        "name": "system-font",
+        "size": 13
+    },
+    "spotifySubtitle1BoldFont~nocat": {
+        "name": "system-font-bold",
+        "size": 13
+    },
+    "spotifyMetadata1Font~nocat": {
+        "name": "system-font",
+        "size": 13
+    },
+    "spotifyCaption1Font~nocat": {
+        "name": "system-font",
+        "size": 12
+    },
+    "spotifyBodyFont~nocat": {
+        "name": "system-font",
+        "size": 16
+    },
+    "spotifyMetadata2Font~nocat": {
+        "name": "system-font",
+        "size": 11
+    },
+
+    "spotifyTitle1BoldFont~nocat": {
+        "name": "system-font-bold",
+        "size": 17
+    },
+    "spotifySubtitle1Font~nocat": {
+        "name": "system-font-bold",
+        "size": 13
+    },
+
+    "staticControlBoldFont~nocat": {
+        "name": "system-font-bold",
+        "size": 17
+    },
+    "staticControlRegularFont~nocat": {
+        "name": "system-font",
+        "size": 17
+    },
+    
+    "actionButtonLargeTitleFont~nocat": {
+        "name": "system-font-bold",
+        "size": 17
+    },
+    
+    "tableViewHeaderViewFont~nocat": {
+        "base": "spotifySubtitle1Font",
+        "size": 14
+    },
+    "tableViewCellMetadataFont~nocat": "spotifySubtitle1Font",
+    "peopleChooserSectionHeaderFont~nocat": "spotifySubtitle1Font",
+    "collectionViewCellTitleFont~nocat": "spotifySubtitle1Font",
+    "infoViewTitleFont~nocat": "staticControlBoldFont",
+    "actionButtonSmallTitleFont~nocat": "spotifyTitle2Font"
+}

@@ -1,0 +1,9 @@
+{
+    "upsellTitleFont": "spotifyHeadingFont",
+
+    "upsellMessageFont": "spotifySubtitle1Font",
+    "buttonTitleFont~nocat": {
+        "name": "system-font-bold",
+        "size": 14.0
+    }
+}

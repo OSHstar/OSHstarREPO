@@ -1,0 +1,17 @@
+{
+    "titleConstraintSize": [250, 800],
+    "titleMargin": 5,
+    "textViewHeight": 100,
+    "textViewHeight~3.5inch": 70,
+    "horizontalMargin": 10,
+    "horizontalSpacing": 33,
+    "verticalSpacing": 15,
+    "textViewUpperSpacing": 5,
+    "textViewBotomSpacing": 10,
+    "textViewHorizontalMargin": 0,
+    "labelAnchorPoint": [10, 105],
+    "labelAnchorPoint~3.5inch": [10, 80],
+    "labelSize": [150, 21],
+    "scrollOffsetPoint": [0, 100],
+    "animationLength": 0.1
+}

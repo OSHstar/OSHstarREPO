@@ -1,7 +1,0 @@
-{
-    "profileHeaderViewUserLabelFont": "spotifyTitle1StaticFont",
-    "profileHeaderViewCountLabelFont": "spotifyMetadata1Font",
-    "profileHeaderViewCountSublabelFont": "spotifyMetadata1Font",
-    "profileTableViewTitleFont": "tableViewCellTitleFont",
-    "profileTableViewHeaderViewFont": "spotifyMetadata1Font"
-}

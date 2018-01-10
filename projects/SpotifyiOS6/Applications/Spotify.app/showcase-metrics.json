@@ -1,0 +1,17 @@
+{
+    "showcaseIconSize": [30, 30],
+    "showcaseTextMargin": 30,
+    "showcaseFeaturedImage35Radius": 100,
+    "showcaseFeaturedImage40Radius": 130,
+    "showcaseTitleHeight": 25,
+    "showcaseSubtitleHeight": 50,
+    "showcaseFeaturedImageMargin": 20,
+    "showcaseFeaturedImageBorderWidth": 4,
+    
+    "showcaseBackgroundBlurIntensityScale": 0.85,
+    "showcaseContentViewMargin": 109,
+    "showcasePageControlMargin": 215,
+    "showcasePageControlBottomMargin": 27,
+    "showcasePageControlBottomMargin~3.5inch" : 13.5,
+    "showCasePageControlHeight": 20
+}

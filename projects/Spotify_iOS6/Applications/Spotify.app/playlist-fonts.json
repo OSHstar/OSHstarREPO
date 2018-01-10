@@ -1,9 +1,0 @@
-{
-    "playlistMetadataViewDescriptionFont": "spotifySubtitle1Font",
-    "playlistMetadataViewAuthorMetadataFont": "spotifyMetadata1Font",
-    "playlistMetadataViewDurationLastModifiedFont": "spotifySubtitle1Font",
-    "playlistFilterCancelButtonFont": "spotifySubtitle1Font",
-    "playlistCreateNewTextFieldFont": "spotifyTitle1Font",
-    "playlistAudioTouchIntroTooltipFont": "spotifyBodyFont",
-    "playlistHeaderDoneFont": "spotifyHeading2Font"
-}

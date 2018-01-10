@@ -1,0 +1,28 @@
+{
+    "podcastNowPlayingBarEdgeInsets": [4, 0, 3, 3],
+    "podcastNowPlayingBarImageSize": [38, 38],
+    "podcastNowPlayingBarImageRightMargin": 6,
+    "podcastNowPlayingViewEdgeInsets": [0, 15, 0, 15],
+    "podcastNowPlayingViewHeaderHeight": 80,
+    "podcastNowPlayingViewCloseButtonSize": [44, 44],
+    "podcastNowPlayingViewCloseButtonIconSize": [20, 20],
+    "podcastNowPlayingViewImageSize": [290, 290],
+    "podcastNowPlayingViewTitleLabelTopMargin": 20,
+    "podcastNowPlayingViewSummaryLabelTopMargin": 16,
+    "podcastNowPlayingViewControlsViewHeight": 130,
+    "podcastNowPlayingViewControlsViewEdgeInsets": [20, 0, 10, 0],
+    "podcastNowPlayingViewTimeIntervalLabelWidth": 50,
+    "podcastNowPlayingViewSkipButtonSize": [44, 44],
+    "podcastNowPlayingViewSkipButtonIconScale": 0.3,
+    "podcastNowPlayingViewSkipButtonBorderWidth": 1,
+    "podcastNowPlayingViewSkipButtonRightAlignedIconMargin": 6,
+    "podcastNowPlayingViewInterButtonHorizontalMargin": 10,
+
+	"podcastCollectionViewPodcastCellContentSize": [137, 52],
+    "podcastCollectionViewHighlightCellContentSize": [320, 150],
+    "podcastCollectionViewHeaderImageSize": [320, 210],
+    "podcastSubscriptionsCollectionViewHeaderSize": [320, 130],
+    "podcastCategoryCollectionViewHeaderSize": [320, 257],
+
+    "podcastDescriptionViewInsets": [20, 38, 0, 38]
+}

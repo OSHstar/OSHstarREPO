@@ -1,0 +1,9 @@
+{
+    "inboxCellUnreadIconSize": [10, 10],
+    "inboxCellContentInsets": [10, 15, 10, 25],
+    "inboxCellTrackMessageCalculationWidth": 251,
+    "inboxCellOtherMessageCalculationWidth": 262,
+    "inboxCellVerticalExtraMargin": 1,
+    "inboxCellOfflineSyncInsets": [3, 2, 0, 0],
+    "inboxCellAccessoryMargin": 3
+}

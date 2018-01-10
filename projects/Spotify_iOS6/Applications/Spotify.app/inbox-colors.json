@@ -1,9 +1,0 @@
-{
-    "inboxDateColor": "secondaryTextColor",
-    "inboxTitlePrimaryColor": "primaryTextColor",
-    "inboxTitleSecondaryColor": "secondaryTextColor",
-    "inboxMessageColor": "secondaryTextColor",
-    "inboxCellUnreadIconColor": "glueGreenLightColor",
-    "inboxAvailableOfflineCellBackgroundColor": "tableViewCellDefaultBackgroundColor",
-    "inboxAvailableOfflineSwitchOnTintColor": "glueGreenColor"
-}
