@@ -1,0 +1,9 @@
+{
+    "buddyListEntityBackgroundColor": "glueGray15Color",
+    "buddyListEntitySeparatorViewColor": "glueGray8Color",
+    "buddyListEntityFriendNameTextColor": "primaryTextColor",
+    "buddyListEntitySeparatorLineColor": "separatorColor",
+    "buddyListEntityPlayDataContextNameTextColor": "primaryTextColor",
+    "buddyListEntityPlayDataTrackNameTextColor": "glueGray55Color",
+    "buddyListEntityPlayDataNowPlayingImageColor": "glueGray55Color"
+}

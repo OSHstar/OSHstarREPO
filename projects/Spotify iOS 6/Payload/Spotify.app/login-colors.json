@@ -1,0 +1,107 @@
+{
+    "loginFacebookButtonTitleColor": "glueWhiteColor",
+    "loginFacebookButtonBackgroundColor": "facebookBlueColor",
+    "loginFacebookButtonHighlightedBackgroundColor": "294797",
+    "loginFacebookButtonBorderColor": "catClearColor",
+    "loginFacebookButtonHighlightedBorderColor": "catClearColor",
+
+    "loginBackgroundColor": "primaryBackgroundColor",
+    
+    "loginSecondaryActionButtonBorderOverrideColor": {
+        "base": "glueGray55Color" ,
+        "alpha": 0.5
+    },
+    "loginSecondaryActionButtonBackgroundOverrideColor": {
+        "base": "glueGray15Color" ,
+        "alpha": 0.5
+    },
+    
+    "loginPrimaryButtonColor": "glueGreenColor",
+    "loginPrimaryButtonTextColor": "glueWhiteColor",
+    "loginPrimaryButtonDisabledTextColor": {
+        "base": "glueWhiteColor",
+        "alpha": 0.5
+    },
+    "loginPrimaryButtonDisabledTextColor~nocat": "ffffff",
+    
+    
+    "loginWelcomeMessageTitleColor": "glueWhiteColor",
+    "loginWelcomeMessageBodyColor": "glueWhiteColor",
+    "loginWelcomeMessageTitleColor~nocat": "ffffff",
+    "loginWelcomeMessageBodyColor~nocat": "ffffff",
+    
+    
+    "loginSecondaryButtonColor": "actionButtonLargeSecondaryBackgroundColor",
+    
+    "loginSignupTermsTextColor" : "secondaryTextOnDarkColor",
+    "loginSignupTermsLinkColor" : "primaryTextOnDarkColor",
+
+    
+    "loginForgotPasswordLinkColor": "secondaryTextOnDarkColor",
+    "loginForgotPasswordLinkColor~nocat" : "ffffff",
+    
+    "loginTextFieldNormalBackgroundColor": "glueGray12Color",
+    "loginTextFieldNormalBackgroundColor~nocat": "ffffff",
+    "loginTextFieldNormalTextColor": "glueWhiteColor",
+    "loginTextFieldNormalTextColor~nocat": "616161",
+    "loginTextFieldNormalIconColor": "loginTextFieldNormalTextColor",
+    "loginTextFieldNormalIconColor~nocat": "616161",
+    
+    "loginTextFieldEditingBackgroundColor": "glueGray15Color",
+    "loginTextFieldEditingBackgroundColor~nocat": "loginTextFieldNormalBackgroundColor",
+    "loginTextFieldEditingTextColor": "glueWhiteColor",
+    "loginTextFieldEditingTextColor~nocat": "loginTextFieldNormalTextColor",
+    "loginTextFieldEditingIconColor": "loginTextFieldEditingTextColor",
+    "loginTextFieldEditingIconColor~nocat": "loginTextFieldNormalIconColor",
+    
+    "loginTextFieldErrorBackgroundColor": "glueRedColor",
+    "loginTextFieldErrorBackgroundColor~nocat": "loginTextFieldNormalBackgroundColor",
+    "loginTextFieldErrorTextColor": "loginTextFieldEditingTextColor",
+    "loginTextFieldErrorTextColor~nocat": "loginErrorLabelBackgroundColor",
+    "loginTextFieldErrorIconColor": "loginTextFieldEditingTextColor",
+    "loginTextFieldErrorIconColor~nocat": "loginErrorLabelBackgroundColor",
+    
+    
+    "loginErrorLabelBackgroundColor": "glueRedDarkColor",
+    "loginErrorLabelBackgroundColor~nocat": "f63042",
+    "loginErrorLabelTextColor": "loginTextFieldEditingTextColor",
+    "loginErrorLabelTextColor~nocat": "ffffff",
+    
+    "loginFormSeparatorBackgroundColor": "glueGray15Color",
+    "loginFormSeparatorBackgroundColor~nocat": "glueGray90Color",
+    
+    "loginPickerViewBackgroundColor": {
+        "base": "glueWhiteColor",
+        "alpha": 0.8
+    },
+    
+    "loginSeparatorLabelLineColor": "glueGray20Color",
+    "loginSeparatorLabelLineColor~nocat": "ffffff",
+    "loginSeparatorLabelTextColor": "secondaryTextOnDarkColor",
+    "loginSeparatorLabelTextColor~nocat": "ffffff",
+    
+    
+    
+    "loginTextFieldPlaceholderTextColor": "secondaryTextOnDarkColor",
+    "loginTextFieldPlaceholderTextColor~nocat": "b3b3b3",
+    "loginTextFieldPlaceholderIconColor": "loginTextFieldPlaceholderTextColor",
+    "loginTextFieldPlaceholderIconColor~nocat": "loginTextFieldPlaceholderTextColor",
+    
+    "loginTextFieldErrorBackgroundColor": "glueRedColor",
+    "loginTextFieldErrorBackgroundColor~nocat": "a3a3a3",
+
+    
+    "loginFormIconNormalColor": "glueGray8Color",
+    "loginFormIconNormalColor~nocat": "858585",
+    "loginFormIconErrorColor": "glueWhiteColor",
+    "loginFormIconErrorColor~nocat": "f63042",
+    
+    "loginFacebookButtonIconColor": "glueWhiteColor",
+    "loginFacebookButtonIconColor~nocat": "ffffff",
+    
+    "navigationBarTintColor": "glueGray55Color",
+    "navigationBarTintColor~nocat": "viewTintColor",
+    "navigationBarTintColor~ios6": "catWhiteColor",
+    
+    "END":"END"
+}

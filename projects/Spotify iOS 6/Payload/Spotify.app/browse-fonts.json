@@ -1,0 +1,16 @@
+{
+    "categoryCellTitleFont": "spotifySubtitle1Font",
+    "categoryHeaderFont": "spotifyHeadingFont",
+    "browseHeaderLabelFont": "collectionViewHeaderTitleFont",
+    "browseOverviewTitleFont": "spotifyTitle1Font",
+    
+    "browseAudioTouchIntroInformationFont": "spotifyTitle1Font",
+
+    "browseMusicTuesdayHeaderTitleFont": "spotifyTitle1Font",
+    "browseMusicTuesdayHeaderSubtitleFont": "spotifyTitle2StaticFont",
+
+    "browseShortcutTagFont": {
+        "name": "ProximaNova-SemiBoldT100",
+        "size": 11
+    }
+}

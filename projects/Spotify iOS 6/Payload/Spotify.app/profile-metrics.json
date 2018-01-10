@@ -1,0 +1,10 @@
+{
+    "profileSectionHeaderHeight": 50,
+    "profileChevronSize": [15, 15],
+    "profileFollowButtonIconSize": [20, 20],
+    "profileEmptyStateIconSize": [100, 100],
+    "profileInviteShareIconSize": [20, 20],
+    "profileInviteUserIconSize": [20, 20],
+    "profileFollowButtonBorderWidth": 1,
+    "profileCountsViewHeight": 50
+}

@@ -1,0 +1,30 @@
+{
+    "nowPlayingTitleViewEntityDescriptionFont" : {
+        "name": "ProximaNova-T50",
+        "size": 11,
+        "uppercaseLayout": true
+    },
+    "nowPlayingTitleViewEntityNameFont" : "spotifySubtitle1StaticFont",
+    "nowPlayingViewTitleLabelFont" : "spotifyTitle1BoldFont",
+    "nowPlayingTitleViewEntityNameFont~ipad" : "spotifyTitle1StaticFont",
+    "nowPlayingViewTitleLabelFont~ipad" : "spotifyTitle1StaticFont",
+    "nowPlayingViewArtistLabelFont" : "spotifySubtitle1Font",
+    "nowPlayingViewArtistInCombinedLabelFont" : "spotifyTitle1Font",
+    "nowPlayingViewTimeTakenLabelFont" : {
+        "base": "spotifyBodyStaticFont",
+        "numberSpacing": "monospaced"
+    },
+    "nowPlayingViewTimeRemainingLabelFont" : "nowPlayingViewTimeTakenLabelFont",
+    "nowPlayingBarSubtitleFont" : "spotifyTitle2StaticFont",
+    "nowPlayingBarTitleFont" : {
+        "name": "ProximaNova-Semibold",
+        "size": 13
+    },
+    "nowPlayingBarSubtitleFont~ipad/cat" : "spotifySubtitle1StaticFont",
+    "nowPlayingBarTitleFont~ipad/cat" : "spotifySubtitle1BoldStaticFont",
+    "nowPlayingQueueEditButtonFont" : "tableViewCellTitleFont",
+    "nowPlayingQueueBadgeFont": {
+        "name": "ProximaNova-Semibold",
+        "size": 12
+    }
+}

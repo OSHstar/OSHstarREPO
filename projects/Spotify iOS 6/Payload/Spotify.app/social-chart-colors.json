@@ -1,0 +1,12 @@
+{
+    "socialChartInfluencersViewInfluencerImageBackgroundColor" : "placeholderBackgroundColor",
+    "socialChartInfluencersViewInfluencerImageIconColor": "placeholderIconColor",
+    "socialChartInfluencersViewInfluencerImageBorderColor" : "catClearColor",
+    
+    "socialChartEntityViewRankTextColor": "catWhiteColor",
+    "socialChartEntityViewRankShuffleTextColor": "tableViewCellNonInteractiveTitleColor",
+    "socialChartEntityViewTableCellBackgroundColor": "catClearColor",
+    
+    "socialChartFooterViewLabelBackgroundColor": "glueGray20Color",
+    "socialChartFooterViewLabelTextColor": "glueGray70Color"
+}   

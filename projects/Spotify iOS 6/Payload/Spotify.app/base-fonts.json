@@ -1,0 +1,386 @@
+{
+
+    "spotifyHeadingStaticFont": {
+        "name": "ProximaNova-Regular",
+        "size": 27
+    },
+
+    "spotifyTitle1StaticFont": {
+        "name": "ProximaNova-Regular",
+        "size": 18
+    },
+
+    "spotifyTitle1BoldStaticFont": {
+        "name": "ProximaNova-Bold",
+        "size": 18
+    },
+    
+    "spotifySubtitle1StaticFont": {
+        "name": "ProximaNova-Regular",
+        "size": 15
+    },
+    
+    "spotifySubtitle1BoldStaticFont": {
+        "name": "ProximaNova-Bold",
+        "size": 15
+    },
+
+    "spotifyMetadata1StaticFont": {
+        "name": "ProximaNova-T100",
+        "size": 11,
+        "uppercaseLayout": true
+    },
+    
+    "spotifyCaption1StaticFont": {
+        "name": "ProximaNova-T50",
+        "size": 13,
+        "uppercaseLayout": true
+    },
+    
+    "spotifyTitle2StaticFont": {
+        "name": "ProximaNova-Regular",
+        "size": 12
+    },
+    
+    "spotifyTitle2BoldStaticFont": {
+        "name": "ProximaNova-Bold",
+        "size": 12
+    },
+
+    "spotifyMetadata2StaticFont": {
+        "name": "ProximaNova-T50",
+        "size": 9,
+        "uppercaseLayout": true
+    },
+    
+    "spotifyBodyStaticFont": {
+        "name": "ProximaNova-Regular",
+        "size": 13
+    },
+    
+    "spotifyHeading1StaticFont": {
+        "name": "ProximaNova-T50",
+        "size": 16
+    },
+    
+    "spotifyHeading2StaticFont": {
+        "name": "ProximaNova-Regular",
+        "size": 17
+    },
+    
+
+    "spotifyHeadingFont": "spotifyHeadingStaticFont",
+
+
+    "spotifyTitle1Font~dt-xs": {
+        "name": "ProximaNova-Semibold",
+        "size": 15
+    },
+    "spotifyTitle1Font~dt-s": {
+        "name": "ProximaNova-Semibold",
+        "size": 16
+    },
+    "spotifyTitle1Font~dt-m": {
+        "name": "ProximaNova-Regular",
+        "size": 17
+    },
+    "spotifyTitle1Font": "spotifyTitle1StaticFont",
+    "spotifyTitle1Font~dt-xl": {
+        "name": "ProximaNova-Regular",
+        "size": 19
+    },
+    "spotifyTitle1Font~dt-xxl": {
+        "name": "ProximaNova-Light",
+        "size": 20
+    },
+    "spotifyTitle1Font~dt-xxxl": {
+        "name": "ProximaNova-Light",
+        "size": 21
+    },
+    "spotifyTitle1Font~ipad/nocat": {
+        "name" : "system-font",
+        "size" : 15
+    },
+
+    "spotifyTitle1BoldFont~dt-xs": {
+        "name": "ProximaNova-Extrabld",
+        "size": 15
+    },
+    "spotifyTitle1BoldFont~dt-s": {
+        "name": "ProximaNova-Extrabld",
+        "size": 16
+    },
+    "spotifyTitle1BoldFont~dt-m": {
+        "name": "ProximaNova-Bold",
+        "size": 17
+    },
+    "spotifyTitle1BoldFont": "spotifyTitle1BoldStaticFont",
+    "spotifyTitle1BoldFont~dt-xl": {
+        "name": "ProximaNova-Bold",
+        "size": 19
+    },
+    "spotifyTitle1BoldFont~dt-xxl": {
+        "name": "ProximaNova-Semibold",
+        "size": 20
+    },
+    "spotifyTitle1BoldFont~dt-xxxl": {
+        "name": "ProximaNova-Semibold",
+        "size": 21
+    },
+    "spotifyTitle1BoldFont~ipad/nocat": {
+        "name" : "system-font-bold",
+        "size" : 18
+    },
+
+
+
+    "spotifySubtitle1Font~dt-xs": {
+        "name": "ProximaNova-Regular",
+        "size": 14
+    },
+    "spotifySubtitle1Font~dt-s": {
+        "name": "ProximaNova-Regular",
+        "size": 14.5
+    },
+    "spotifySubtitle1Font~dt-m": {
+        "name": "ProximaNova-Regular",
+        "size": 14.5
+    },
+    "spotifySubtitle1Font": "spotifySubtitle1StaticFont",
+    "spotifySubtitle1Font~dt-xl": {
+        "name": "ProximaNova-Regular",
+        "size": 16
+    },
+    "spotifySubtitle1Font~dt-xxl": {
+        "name": "ProximaNova-Light",
+        "size": 17.5
+    },
+    "spotifySubtitle1Font~dt-xxxl": {
+        "name": "ProximaNova-Light",
+        "size": 18.5
+    },
+
+
+
+    "spotifySubtitle1BoldFont~dt-xs": {
+        "name": "ProximaNova-Bold",
+        "size": 14
+    },
+    "spotifySubtitle1BoldFont~dt-s": {
+        "name": "ProximaNova-Bold",
+        "size": 14.5
+    },
+    "spotifySubtitle1BoldFont~dt-m": {
+        "name": "ProximaNova-Bold",
+        "size": 14.5
+    },
+    "spotifySubtitle1BoldFont": "spotifySubtitle1BoldStaticFont",
+    "spotifySubtitle1BoldFont~dt-xl": {
+        "name": "ProximaNova-Bold",
+        "size": 16
+    },
+    "spotifySubtitle1BoldFont~dt-xxl": {
+        "name": "ProximaNova-Semibold",
+        "size": 17.5
+    },
+    "spotifySubtitle1BoldFont~dt-xxxl": {
+        "name": "ProximaNova-Semibold",
+        "size": 18.5
+    },
+
+
+    "spotifyMetadata1Font~dt-xs": {
+        "name": "ProximaNova-T100",
+        "size": 10,
+        "uppercaseLayout": true
+    },
+    "spotifyMetadata1Font~dt-s": {
+        "name": "ProximaNova-T100",
+        "size": 10,
+        "uppercaseLayout": true
+    },
+    "spotifyMetadata1Font~dt-m": {
+        "name": "ProximaNova-T100",
+        "size": 10.5,
+        "uppercaseLayout": true
+    },
+    "spotifyMetadata1Font": "spotifyMetadata1StaticFont",
+    "spotifyMetadata1Font~dt-xl": {
+        "name": "ProximaNova-T100",
+        "size": 11.5,
+        "uppercaseLayout": true
+    },
+    "spotifyMetadata1Font~dt-xl": {
+        "name": "ProximaNova-T100",
+        "size": 12.5,
+        "uppercaseLayout": true
+    },
+    "spotifyMetadata1Font~dt-xxl": {
+        "name": "ProximaNova-LightT100",
+        "size": 13,
+        "uppercaseLayout": true
+    },
+    "spotifyMetadata1Font~dt-xxxl": {
+        "name": "ProximaNova-LightT100",
+        "size": 14,
+        "uppercaseLayout": true
+    },
+
+
+    "spotifyCaption1Font~dt-xs": {
+        "name": "ProximaNova-T50",
+        "size": 11,
+        "uppercaseLayout": true
+    },
+    "spotifyCaption1Font~dt-s": {
+        "name": "ProximaNova-T50",
+        "size": 11.5,
+        "uppercaseLayout": true
+    },
+    "spotifyCaption1Font~dt-m": {
+        "name": "ProximaNova-T50",
+        "size": 12,
+        "uppercaseLayout": true
+    },
+    "spotifyCaption1Font": "spotifyCaption1StaticFont",
+    "spotifyCaption1Font~dt-xl": {
+        "name": "ProximaNova-T50",
+        "size": 14,
+        "uppercaseLayout": true
+    },
+    "spotifyCaption1Font~dt-xxl": {
+        "name": "ProximaNova-LightT50",
+        "size": 14.5,
+        "uppercaseLayout": true
+    },
+    "spotifyCaption1Font~dt-xxxl": {
+        "name": "ProximaNova-LightT50",
+        "size": 15,
+        "uppercaseLayout": true
+    },
+
+
+
+    "spotifyTitle2Font~dt-xs": {
+        "name": "ProximaNova-Regular",
+        "size": 11
+    },
+    "spotifyTitle2Font~dt-s": {
+        "name": "ProximaNova-Regular",
+        "size": 11
+    },
+    "spotifyTitle2Font~dt-m": {
+        "name": "ProximaNova-Regular",
+        "size": 11.5
+    },
+    "spotifyTitle2Font": "spotifyTitle2StaticFont",
+    "spotifyTitle2Font~dt-xl": {
+        "name": "ProximaNova-Regular",
+        "size": 12.5
+    },
+    "spotifyTitle2Font~dt-xxl": {
+        "name": "ProximaNova-Light",
+        "size": 13
+    },
+    "spotifyTitle2Font~dt-xxxl": {
+        "name": "ProximaNova-Light",
+        "size": 15
+    },
+
+
+
+    "spotifyTitle2BoldFont~dt-xs": {
+        "name": "ProximaNova-Bold",
+        "size": 11
+    },
+    "spotifyTitle2BoldFont~dt-s": {
+        "name": "ProximaNova-Bold",
+        "size": 11
+    },
+    "spotifyTitle2BoldFont~dt-m": {
+        "name": "ProximaNova-Bold",
+        "size": 11.5
+    },
+    "spotifyTitle2BoldFont": "spotifyTitle2BoldStaticFont",
+    "spotifyTitle2BoldFont~dt-xl": {
+        "name": "ProximaNova-Bold",
+        "size": 12.5
+    },
+    "spotifyTitle2BoldFont~dt-xxl": {
+        "name": "ProximaNova-Semibold",
+        "size": 13
+    },
+    "spotifyTitle2BoldFont~dt-xxxl": {
+        "name": "ProximaNova-Semibold",
+        "size": 15
+    },
+
+
+    "spotifyMetadata2Font~dt-xs": {
+        "name": "ProximaNova-SemiBoldT100",
+        "size": 7.5,
+        "uppercaseLayout": true
+    },
+    "spotifyMetadata2Font~dt-s": {
+        "name": "ProximaNova-SemiBoldT100",
+        "size": 8,
+        "uppercaseLayout": true
+    },
+    "spotifyMetadata2Font~dt-m": {
+        "name": "ProximaNova-T100",
+        "size": 8.5,
+        "uppercaseLayout": true
+    },
+    "spotifyMetadata2Font": "spotifyMetadata2StaticFont",
+    "spotifyMetadata2Font~dt-xl": {
+        "name": "ProximaNova-T100",
+        "size": 9.5,
+        "uppercaseLayout": true
+    },
+    "spotifyMetadata2Font~dt-xxl": {
+        "name": "ProximaNova-LightT100",
+        "size": 10,
+        "uppercaseLayout": true
+    },
+    "spotifyMetadata2Font~dt-xxxl": {
+        "name": "ProximaNova-LightT100",
+        "size": 10.5,
+        "uppercaseLayout": true
+    },
+
+
+    "spotifyBodyFont~dt-xs": {
+        "name": "ProximaNova-Regular",
+        "size": 11
+    },
+    "spotifyBodyFont~dt-s": {
+        "name": "ProximaNova-Regular",
+        "size": 11.5
+    },
+    "spotifyBodyFont~dt-m": {
+        "name": "ProximaNova-Regular",
+        "size": 12
+    },
+    "spotifyBodyFont": "spotifyBodyStaticFont",
+    "spotifyBodyFont~dt-xl": {
+        "name": "ProximaNova-Regular",
+        "size": 14
+    },
+    "spotifyBodyFont~dt-xxl": {
+        "name": "ProximaNova-Light",
+        "size": 14.5
+    },
+    "spotifyBodyFont~dt-xxxl": {
+        "name": "ProximaNova-Light",
+        "size": 15
+    },
+
+    "spotifyHeading1Font": "spotifyHeading1StaticFont",
+    "spotifyHeading2Font": "spotifyHeading2StaticFont",
+    
+    "undefinedFont": "dynamicSubheadlineFont",
+    "undefinedFont~debug": {
+        "name": "ChalkboardSE-Regular",
+        "size": 16
+    }
+}

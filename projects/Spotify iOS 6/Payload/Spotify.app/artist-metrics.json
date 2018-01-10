@@ -1,0 +1,29 @@
+{
+    "artistLegacyHeaderViewHeight": 540,
+    "artistLegacyHeaderViewButtonHeight": 28,
+    "artistLegacyHeaderViewButtonInsets": [-10, 0, 0, 0],
+    "artistCalendarBodySize": [42, 42],
+    "artistCalendarHeaderSize": [42, 14],
+    "artistCalendarLeftSpacing": 0,
+    "artistCalendarLeftSpacing~nocat": 12,
+
+    "artistBiographyTextViewInsets": [10, 10, 10, 10],
+    "artistBiographyTextViewInsets~nocat": [18, 18, 18, 18],
+
+    "artistTopTracksPrefixViewWidth": 29,
+    
+    "artistSummaryTableViewCellTextLineHeight": 1,
+    "artistSummaryTableViewCellHeight": 64,
+    
+    "artistViewAllTableViewCellRowHeight": 45,
+
+    "artistTableViewCollectionViewBottomMargin": 13,
+    "artistTabBarHeight": 44,
+
+    "artistLegacyHeaderPlayButtonAnimationDuration": 0.2,
+    "artistLegacyHeaderPlayButtonTransformPlayingScale": 1.5,
+    "artistLegacyHeaderPlayButtonTransformNotPlayingScale": 1.0,
+
+    "artistLegacyBiographyLineSpacing": 6,
+    "artistLegacyBiographyParagraphSpacing": 10
+}

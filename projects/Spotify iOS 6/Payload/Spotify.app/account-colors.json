@@ -1,0 +1,15 @@
+{
+    "accountSettingsCellBackgroundColor": "glueGray12Color",
+    "accountSettingsCellBackgroundColor~nocat": "glueWhiteColor",
+
+
+    "accountSettingsCellTitleLabelTextColor": "glueWhiteColor",
+    "accountSettingsCellTitleLabelTextColor~nocat": "primaryTextColor",
+    "accountSettingsCellAccessoryLabelTextColor": "glueWhiteColor",
+    "accountSettingsCellAccessoryLabelTextColor~nocat": "secondaryTextColor",
+    "accountSettingsCellAccessoryLabelBackgroundColor": "catClearColor",
+
+    "accountSettingsCellProgressColor": "viewTintColor",
+
+    "accountInformationCellMessageLabelTextColor": "glueGray55Color"
+}

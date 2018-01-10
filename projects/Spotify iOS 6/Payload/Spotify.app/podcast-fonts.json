@@ -1,0 +1,13 @@
+{
+    "podcastNowPlayingBarTitleFont": "spotifySubtitle1StaticFont",
+    "podcastNowPlayingBarSubtitleFont": "spotifyMetadata1StaticFont",
+    
+    "podcastNowPlayingViewTopMetadataLabelFont": "spotifyMetadata1Font",
+    "podcastNowPlayingViewTopTitleLabelFont": "podcastNowPlayingBarTitleFont",
+    "podcastNowPlayingViewTitleLabelFont": "spotifyTitle1Font",
+    "podcastNowPlayingViewSummaryLabelFont": "spotifyBodyFont",
+    "podcastNowPlayingViewTimeIntervalLabelFont": "spotifyMetadata1StaticFont",
+    "podcastNowPlayingViewSkipButtonTitleFont": "spotifyMetadata1StaticFont",
+
+    "podcastDescriptionViewTextFont": "spotifySubtitle1Font"
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>features</key>
+	<array>
+		<dict>
+			<key>icon</key>
+			<string>SPTIconSpotifyConnect</string>
+			<key>identifier</key>
+			<string>connect001</string>
+			<key>featured_img</key>
+			<string>connect-showcase</string>
+			<key>feature_flag</key>
+			<string>connect-showcase</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>SPTIconGears</string>
+			<key>identifier</key>
+			<string>equalizer001</string>
+			<key>featured_img</key>
+			<string>showcase-equalizer</string>
+			<key>ipad_enabled</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>identifier</key>
+			<string>activity001</string>
+			<key>icon</key>
+			<string>SPTIconFollow</string>
+			<key>featured_img</key>
+			<string>activity</string>
+			<key>feature_flag</key>
+			<string>ab-mobile-social-feed</string>
+			<key>ipad_enabled</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>SPTIconReleased</string>
+			<key>identifier</key>
+			<string>newmusictuesday001</string>
+			<key>featured_img</key>
+			<string>showcase-newmusictuesday</string>
+			<key>feature_flag</key>
+			<string>ab-mobile-new-music-tuesday-modal</string>
+			<key>abba_feature_flag_values</key>
+			<array>
+				<string>Enabled and Listen as Action</string>
+				<string>Enabled and Share as Action</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+{
+    "gaiaDevicePickerHeaderViewSize~3.5inch": [320, 126],
+    "gaiaDevicePickerHeaderViewSize": [320, 168],
+    "gaiaDevicePickerHeaderViewTopMargin": 40,
+    "gaiaDevicePickerHeaderViewMargin": 20,
+
+    "gaiaVolumePopupSize": [300, 62],
+    "gaiaVolumePopupMargin": 10,
+    "gaiaVolumePopupSliderTopMargin": 4,
+
+    "gaiaContextMenuVolumeViewSize": [320, 44],
+    "gaiaContextMenuVolumeViewSize~ipad/nocat": [280, 44],
+    "gaiaContextMenuVolumeViewInsets": [0, 20, 0, 20],
+    "gaiaContextMenuVolumeViewInsets~ipad/nocat": [0, 0, 0, 0],
+    "gaiaContextMenuVolumeSliderLeftMargin": 10,
+    "gaiaContextMenuVolumeSystemSliderOffset": [0, 2],
+
+    "gaiaContextMenuIconViewSize": [23, 23],
+    "gaiaNowPlayingBarIconViewSize~iphone": [28, 28],
+    "gaiaNowPlayingBarIconViewSize~ipad/nocat": [36, 36],
+    "gaiaNowPlayingBarIconViewSize~ipad": [26, 26],
+    "gaiaNowPlayingViewIconViewSize~iphone": [28, 28],
+    "gaiaNowPlayingViewIconViewSize~ipad": [36, 36],
+    "gaiaNowPlayingBarIconViewOffset" : [0, 0],
+    "gaiaNowPlayingBarIconViewOffset~ipad" : [-8, 0],
+    "gaiaNowPlayingBarIconViewOffset~ipad/nocat" : [0, 0],
+
+    "gaiaPopupIconSize": [80, 80],
+    "gaiaPopupIconMargin": 20
+}

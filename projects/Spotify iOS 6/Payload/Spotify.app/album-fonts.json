@@ -1,0 +1,22 @@
+{
+    "headerFont~nocat": {
+        "name": "system-font-bold",
+        "size": 18
+    },
+    "headerSubtitleFont~nocat": {
+        "name": "system-font-bold",
+        "size": 14
+    },
+    "headerAnnotationFont~nocat": {
+        "name": "system-font",
+        "size": 14
+    },
+    "headerButtonFont~nocat": {
+        "name": "system-font-bold",
+        "size": 12
+    },
+
+    "albumMetadataViewArtistMetadataFont": "spotifyMetadata1Font",
+    "albumMetadataViewMetadataFont": "spotifySubtitle1Font",
+    "albumTableViewCopyrightFont": "spotifyMetadata2Font"
+}

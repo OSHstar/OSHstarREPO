@@ -1,0 +1,8 @@
+{
+    "accountSettingsCellAccessoryLabelFont": {
+        "name": "ProximaNova-Semibold",
+        "size": 12
+    },
+
+    "accountInformationCellMessageLabelFont": "spotifySubtitle1Font"
+}

@@ -1,0 +1,23 @@
+{
+    "adEntityViewTopVerticalMargin" : 11,
+    "adEntityViewTopVerticalMargin~3.5inch" : 4,
+    "adEntityViewTopVerticalMargin~ios6" : 4,
+    "adEntityViewTopVerticalMargin~ipad" : 50,
+    "adEntityViewImageWidth~ipad" : 450,
+    "adEntityViewBackgroundImageWidth~ipad" : 600,
+    "adEntityViewBottomVerticalMargin" : 20,
+    "adEntityViewBottomVerticalMargin~ipad" : 95,
+    "adEntityViewBottomVerticalMargin~3.5inch/landscape" : 40,
+    "adEntityViewHorizontalImageMargin" : 15,
+    "adEntityViewHorizontalImageMargin~3.5inch" : 45,
+    "adEntityViewHorizontalImageMargin~ipad" : 159,
+    "adEntityViewHorizontalImageMargin~ipad/landscape" : 100,
+    "adEntityViewHorizontalControlsMargin" : 60,
+    "adEntityViewWatchNowButtonBottomMargin": 33,
+    "adEntityViewWatchNowButtonBottomMargin~3.5inch": 20,
+    "adEntityViewWatchNowButtonBottomMargin~ipad": 23,
+    "adEntityViewPlayControlsViewWidth" : 250,
+    "adEntityViewPlayControlsViewHorizontalMargin" : 30,
+    "adEntityViewPlayControlsViewVerticalMargin" : 15,
+    "adEntityViewPlayControlsViewVerticalMargin~ipad" : 35
+}

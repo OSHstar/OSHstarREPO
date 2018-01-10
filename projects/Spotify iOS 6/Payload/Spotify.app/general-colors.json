@@ -1,0 +1,256 @@
+{
+    "catClearColor": {
+        "rgb": "000000",
+        "alpha": 0
+    },
+    "catWhiteColor": "glueWhiteColor",
+    "catBlackColor": "glueBlackColor",
+
+    "catOverlayBackgroundColor": {
+        "base": "catBlackColor",
+        "alpha": 0.73
+    },
+
+    "viewTintColor": "glueGreenLightColor",
+
+    "primaryBackgroundColor": "glueGray8Color",
+    "secondaryBackgroundColor": "glueGray12Color",
+    "primaryTextColor": "primaryTextOnDarkColor",
+    "secondaryTextColor": "secondaryTextOnDarkColor",
+    "titleTextColor": "secondaryTextOnDarkColor",
+    "activeTextColor": "glueGreenLightColor",
+    "disabledTextColor": "glueGray25Color",
+    "primaryIconColor": "glueGray55Color",
+    "activeIconColor": "glueGray55Color",
+    "infoViewIconColor": "glueGray55Color",
+    "separatorColor": "glueGray20Color",
+    "circularImageBorderColor": "secondaryTextOnDarkColor",
+
+    "explicitLabelTextColor": "primaryBackgroundColor",
+    "explicitLabelBackgroundColor": "glueGray25Color",
+
+    "placeholderBackgroundColor": "glueGray15Color",
+    "placeholderIconColor": "secondaryTextOnDarkColor",
+
+    "errorColor": "glueRedColor",
+
+    "undefinedColor": "glueWhiteColor",
+    "undefinedColor~debug": "ff0044",
+
+    "tableViewCellDefaultBackgroundColor": "primaryBackgroundColor",
+    "tableViewCellActiveBackgroundColor": "glueGray12Color",
+    "tableViewCellDefaultTitleTextColor": "primaryTextColor",
+    "tableViewCellActiveTitleTextColor": "activeTextColor",
+    "tableViewCellDisabledTitleColor": "disabledTextColor",
+    "tableViewCellSubtitleTextColor": "glueGray55Color",
+    "tableViewCellNonInteractiveTitleColor": "secondaryTextOnDarkColor",
+    "tableViewCellNonInteractiveSubtitleColor": "secondaryTextOnDarkColor",
+    "tableViewCellTimeAccessoryColor": "b5b5b5",
+
+    "swipeableTableViewCellShelfViewColor": "glueWhiteColor",
+    
+    "swipeableTableViewCellShelfDestructiveHintBackgroundColor": "glueRedColor",
+    "swipeableTableViewCellShelfDestructiveActionBackgroundColor": "glueRedLightColor",
+
+    "swipeableTableViewCellShelfConstructiveHintBackgroundColor": "glueBlueLightColor",
+    "swipeableTableViewCellShelfConstructiveActionBackgroundColor": "glueGreenLightColor",
+
+    "collectionViewCellBackgroundColor": "glueGray15Color",
+    "collectionViewCellHighlightColor": "glueGray12Color",
+    "collectionViewCellInactiveTitleTextColor": "primaryTextColor",
+    "collectionViewCellActiveTitleTextColor": "activeTextColor",
+    "collectionViewCellSubtitleTextColor": "secondaryTextColor",
+    "collectionViewCellDetailTextColor": "secondaryTextColor",
+    "collectionViewCellImageBackgroundColor": "glueGray25Color",
+    "collectionViewCellDetailViewBackgroundColor": "collectionViewCellBackgroundColor",
+    "collectionViewCellShadowColor": "catClearColor",
+    
+    "collectionViewCellTitleLabelDefaultBackgroundColor": "collectionViewCellBackgroundColor",
+    "collectionViewCellTitleLabelDefaultBackgroundColor~nocat": "catClearColor",
+    "collectionViewCellTitleLabelSelectedBackgroundColor": "collectionViewCellHighlightColor",
+    "collectionViewCellTitleLabelSelectedBackgroundColor~nocat": "catClearColor",
+    
+    "collectionViewCellDetailLabelDefaultBackgroundColor": "collectionViewCellHighlightColor",
+    "collectionViewCellDetailLabelDefaultBackgroundColor~nocat": "catClearColor",
+    "collectionViewCellDetailLabelSelectedBackgroundColor": "collectionViewCellDetailViewBackgroundColor",
+    "collectionViewCellDetailLabelSelectedBackgroundColor~nocat": "catClearColor",
+
+    "progressViewBackgroundColor": {
+        "base": "glueGray8Color",
+        "alpha": 0.8
+    },
+    "progressViewIndicatorColor": "primaryTextColor",
+
+    "actionButtonLargePrimaryBackgroundColor": "glueGreenColor",
+    "actionButtonLargePrimaryBorderColor": "catClearColor",
+    "actionButtonLargeSecondaryBackgroundColor": "glueGray12Color",
+    "actionButtonLargeSecondaryBorderColor": "secondaryTextOnDarkColor",
+    "actionButtonSmallPrimaryBackgroundColor": "catClearColor",
+    "actionButtonSmallPrimaryBorderColor": {
+        "base": "catWhiteColor",
+        "alpha": 0.3
+    },
+    "actionButtonSmallSecondaryBackgroundColor": {
+        "base": "catWhiteColor",
+        "alpha": 0.16
+    },
+
+    "actionButtonSmallSecondaryBorderColor": "catClearColor",
+    "actionButtonLargePrimaryHighlightedBackgroundColor": "glueGreenLightColor",
+    "actionButtonLargePrimaryHighlightedBorderColor": "catClearColor",
+    "actionButtonLargeSecondaryHighlightedBackgroundColor": "glueGray8Color",
+    "actionButtonLargeSecondaryHighlightedBorderColor": "glueGreenDarkColor",
+    "actionButtonSmallPrimaryHighlightedBackgroundColor": "catClearColor",
+    "actionButtonSmallPrimaryHighlightedBorderColor": {
+        "base": "catWhiteColor",
+        "alpha": 0.4
+    },
+    "actionButtonLargePrimaryDisabledBackgroundColor": "glueGreenDarkColor",
+    "actionButtonLargePrimaryDisabledTextColor": {
+        "base": "glueWhiteColor",
+        "alpha": 0.5
+    },
+
+    "actionButtonSmallPrimarySelectedBorderColor": "glueGreenColor",
+    "actionButtonSmallSecondaryHighlightedBackgroundColor": {
+        "base": "catWhiteColor",
+        "alpha": 0.3
+    },
+    "actionButtonSmallSecondaryHighlightedBorderColor": "catClearColor",
+    "actionButtonLabelColor": "catWhiteColor",
+    "actionButtonPrimaryTitleColor": "catWhiteColor",
+    "actionButtonSecondaryTitleColor": "catWhiteColor",
+
+    "followAccessoryButtonNormalIconColor": "secondaryTextOnDarkColor",
+    "followAccessoryButtonActiveIconColor": "catWhiteColor",
+    "playAccessoryButtonIconColor": "catWhiteColor",
+    "playAccessoryButtonDisabledIconColor": "glueGray25Color",
+    "playAccessoryButtonBackgroundColor": {
+        "base": "glueBlackColor",
+        "alpha": 0.53
+    },
+    "accessoryButtonNormalCircleColor": "secondaryTextOnDarkColor",
+    "accessoryButtonDisabledCircleColor": "glueGray25Color",
+    "accessoryButtonActiveCircleColor": "glueGreenLightColor",
+
+    "entityHeaderViewBackgroundColor": "primaryBackgroundColor",
+    "entityHeaderViewBackgroundImageOverlayColor": {
+        "base": "catBlackColor",
+        "alpha": 0.667
+    },
+    "entityHeaderViewSeparatorColor": "separatorColor",
+    "entityBottomViewGradientStartColor": "catBlackColor",
+    "entityBottomViewGradientEndColor": "catClearColor",
+    "entityHeaderViewTitleColor": "primaryTextOnDarkColor",
+    "entityHeaderViewPrimaryTextColor": "secondaryTextOnBlurredColor",
+    "entityHeaderViewBottomViewLayerBackgroundColor": "glueGray12Color",
+    "entityHeaderViewOverlayBackgroundColor": "catOverlayBackgroundColor",
+    "entityHeaderViewContextMenuIconColor": "glueWhiteColor",
+
+    "contextMenuBackgroundColor": "catOverlayBackgroundColor",
+    "contextMenuSeparatorColor": {
+        "base": "catWhiteColor",
+        "alpha": 0.15
+    },
+    "contextMenuCancelButtonBackgroundColor": "catClearColor",
+    "contextMenuCancelButtonNormalTextColor": "primaryTextOnDarkColor",
+    "contextMenuCancelButtonHighlightedTextColor": "secondaryTextOnDarkColor",
+    "contextMenuAccessoryButtonColor": "glueGray55Color",
+    "contextMenuRowHighlightedBackgroundColor": {
+        "base": "glueWhiteColor",
+        "alpha": 0.05
+    },
+    "contextMenuSectionHeaderTextColor": "glueGray55Color",
+
+    "blurTintColor": "glueBlackColor",
+
+    "sliderThumbColor": "primaryTextOnDarkColor",
+    "sliderTrackMinColor": "glueGreenColor",
+    "sliderTrackMaxColor": {
+        "base": "catWhiteColor",
+        "alpha": 0.3
+    },
+
+    "volumeSliderTrackMinColor": "sliderTrackMinColor",
+    "volumeSliderTrackMaxColor": "sliderTrackMaxColor",
+
+    "infoViewTitleTextColor": "primaryTextColor",
+    "infoViewMessageTextColor": "secondaryTextColor",
+    "infoViewBackgroundColor": "primaryBackgroundColor",
+
+    "tableViewSectionHeaderTextColor": "titleTextColor",
+    "tableViewSectionHeaderBackgroundColor": "tableViewCellDefaultBackgroundColor",
+
+    "labelDefaultTextColor": "primaryTextColor",
+
+    "tabControlSelectedTextColor": "primaryTextColor",
+    "tabControlUnselectedTextColor": "secondaryTextColor",
+
+    "collectionViewFooterBackgroundColor": "primaryBackgroundColor",
+    "collectionViewFooterTitleTextColor": "primaryTextColor",
+    "collectionViewFooterSeparatorColor": "separatorColor",
+
+    "collectionViewHeaderBackgroundColor": "primaryBackgroundColor",
+    "collectionViewHeaderTitleTextColor": "secondaryTextColor",
+    "collectionViewHeaderSeparatorColor": "separatorColor",
+    
+    "actionButtonLargePrimaryBackgroundColor": "glueGreenColor",
+    "actionButtonLargePrimaryBorderColor": "catClearColor",
+    "actionButtonLargeSecondaryBackgroundColor": "glueGray12Color",
+    "actionButtonLargeSecondaryBorderColor": "secondaryTextOnDarkColor",
+    "actionButtonSmallPrimaryBackgroundColor": "catClearColor",
+    "actionButtonSmallPrimaryBorderColor": {
+        "base": "catWhiteColor",
+        "alpha": 0.3
+    },
+    "actionButtonSmallSecondaryBackgroundColor": {
+        "base": "catWhiteColor",
+        "alpha": 0.16
+    },
+    "actionButtonSmallSecondaryBorderColor": "catClearColor",
+    "actionButtonLargePrimaryHighlightedBackgroundColor": "glueGreenDarkColor",
+    "actionButtonLargePrimaryHighlightedBorderColor": "catClearColor",
+    "actionButtonLargeSecondaryHighlightedBackgroundColor": "glueGray8Color",
+    "actionButtonLargeSecondaryHighlightedBorderColor": "glueGreenDarkColor",
+    "actionButtonSmallPrimaryHighlightedBackgroundColor": "catClearColor",
+    "actionButtonSmallPrimaryHighlightedBorderColor": {
+        "base": "catWhiteColor",
+        "alpha": 0.4
+    },
+    "actionButtonSmallPrimarySelectedBorderColor": "glueGreenColor",
+    "actionButtonSmallSecondaryHighlightedBackgroundColor": {
+        "base": "catWhiteColor",
+        "alpha": 0.3
+    },
+    "actionButtonSmallSecondaryHighlightedBorderColor": "catClearColor",
+    "actionButtonLabelColor": "catWhiteColor",
+    "actionButtonPrimaryTitleColor": "catWhiteColor",
+    "actionButtonSecondaryTitleColor": "catWhiteColor",
+    
+    "verifiedBadgeIconColor": "catWhiteColor",
+    "verifiedBadgeBackgroundColor": "glueBlueLightColor",
+
+    "popupWindowBackgroundColor": "000000CC",
+    "popupBackgroundColor": "glueGray95Color",
+    "popupTitleColor": "glueGray8Color",
+    "popupMessageColor": "glueGray15Color",
+
+    "popupPrimaryButtonLabelColor": "actionButtonLabelColor",
+    "popupPrimaryButtonBackgroundColor": "actionButtonLargePrimaryBackgroundColor",
+    "popupPrimaryButtonBorderColor": "actionButtonLargePrimaryBorderColor",
+    "popupPrimaryButtonHighlightedBackgroundColor": "actionButtonLargePrimaryHighlightedBackgroundColor",
+    "popupPrimaryButtonHighlightedBorderColor": "actionButtonLargePrimaryHighlightedBorderColor",
+    "popupPrimaryButtonTitleColor": "actionButtonPrimaryTitleColor",
+
+    "popupSecondaryButtonLabelColor": "actionButtonLabelColor",
+    "popupSecondaryButtonBackgroundColor": "popupBackgroundColor",
+    "popupSecondaryButtonBorderColor": "popupSecondaryButtonBackgroundColor",
+    "popupSecondaryButtonHighlightedBackgroundColor": "actionButtonLargeSecondaryHighlightedBackgroundColor",
+    "popupSecondaryButtonHighlightedBorderColor": "actionButtonLargeSecondaryHighlightedBorderColor",
+    "popupSecondaryButtonTitleColor": "glueGray8Color",
+    
+    "popoverControllerBackgroundColor" : {
+        "base": "primaryBackgroundColor",
+        "alpha": 0.97
+    }
+}

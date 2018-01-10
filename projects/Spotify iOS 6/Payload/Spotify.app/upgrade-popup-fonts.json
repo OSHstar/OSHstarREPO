@@ -1,0 +1,9 @@
+{
+    "upgradePopupTitleLabelFont" : "spotifySubtitle1Font",
+    "upgradePopupTitleLabelFont~ipad" : "spotifyHeadingStaticFont",
+    "upgradePopupTitleLabelFont~nocat/ipad" : "spotifyHeadingFont",
+    
+    "upgradePopupDetailLabelFont" : "spotifyTitle2StaticFont",
+    "upgradePopupDetailLabelFont~ipad" : "spotifySubtitle1Font",
+    "upgradePopupDetailLabelFont~nocat/ipad" : "spotifyBodyFont"
+}

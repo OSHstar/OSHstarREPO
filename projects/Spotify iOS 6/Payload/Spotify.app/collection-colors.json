@@ -1,0 +1,10 @@
+{
+    "artistPageAlbumHeaderTitleTextColor": "catWhiteColor",
+    "artistPageAlbumHeaderTitleBackgroundColor": "catClearColor",
+    "artistPageAlbumHeaderBackgroundColor": "catWhiteColor",
+
+    "filterBarTintColor": "navigationBarTintColor",
+    "filterBarBarTintColor": "navigationBarTintColor",
+    "filterBarFieldBackgroundColor": "glueGray8Color",
+    "filterBarFieldTextColor": "catWhiteColor"
+}

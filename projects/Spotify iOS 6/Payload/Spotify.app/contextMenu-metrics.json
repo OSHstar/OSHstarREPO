@@ -1,0 +1,18 @@
+{
+    "contextMenuBarButtonItemIconSize": [30, 30],
+    "contextMenuHeaderViewSize": [320, 74],
+    "contextMenuHeaderViewSize~ipad": [320, 79],
+    "contextMenuHeaderViewEdgeInsets": [10, 15, 10, 15],
+    "contextMenuHeaderViewEdgeInsets~ipad": [11, 15, 10, 15],
+    "contextMenuHeaderImageSize": [54, 54],
+    "contextMenuHeaderImageSize~ipad": [58, 58],
+    "contextMenuHeaderImageRightMargin": 12,
+    "contextMenuHeaderImageRightMargin~ipad": 13,
+    "contextMenuImageSize~ipad": [320, 320],
+    "contextMenuButtonShadowOffset~ipad": [1, 1],
+    "contextMenuToolbarHeight~ipad": 56,
+    "contextMenuToolbarIconSize~ipad": [22, 22],
+    "contextMenuButtonEdgeInsets~ipad": [10, 10, 10, 10],
+    "contextMenuInPopoverSize~ipad": [320, 426],
+    "contextMenuHeaderStripeSize~ipad": [320, 1]
+}

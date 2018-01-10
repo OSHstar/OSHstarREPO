@@ -1,0 +1,10 @@
+{
+    "showcaseNavigationBarTintColor": "638e00",
+    "showcaseNavigationBarTitleColor": "glueWhiteColor",
+    "showcaseBackgroundColor": "glueBlackColor",
+    "showcaseSubtitleTextColor": "cccccc",
+    "showcaseFeaturedImageBorderColor": {
+        "base": "glueWhiteColor",
+        "alpha": 0.2
+    }
+}

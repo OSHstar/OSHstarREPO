@@ -1,0 +1,26 @@
+// Proto definitions for hermes APIs for socialgraph V2 API
+
+package spotify.socialgraph.proto;
+
+message SocialGraphEntity {
+  optional string user_uri = 1;
+  optional string artist_uri = 2;
+  optional int32 followers_count = 3;
+  optional int32 following_count = 4;
+  optional int32 status = 5;
+  optional bool is_following = 6;
+  optional bool is_followed = 7;
+  optional bool is_dismissed = 8;
+}
+
+message SocialGraphRequest {
+  repeated string target_uris = 1;
+  optional string source_uri = 2;
+  optional bool include_follower_count = 4;
+  optional bool include_following_count = 5;
+}
+
+message SocialGraphReply {
+  repeated SocialGraphEntity entities = 1;
+  optional int32 length = 2;
+}

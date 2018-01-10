@@ -1,0 +1,117 @@
+{
+    "theNewMusicTuesdayDescriptionLabelFont~dt-xs": {
+        "name": "ProximaNova-Regular",
+        "size": 12
+    },
+    "theNewMusicTuesdayDescriptionLabelFont~dt-s": {
+        "name": "ProximaNova-Regular",
+        "size": 13
+    },
+    "theNewMusicTuesdayDescriptionLabelFont~dt-m": {
+        "name": "ProximaNova-Regular",
+        "size": 14
+    },
+    "theNewMusicTuesdayDescriptionLabelFont": {
+        "name": "ProximaNova-Regular",
+        "size": 15
+    },
+    "theNewMusicTuesdayDescriptionLabelFont~dt-xl": {
+        "name": "ProximaNova-Regular",
+        "size": 16
+    },
+    "theNewMusicTuesdayDescriptionLabelFont~dt-xxl": {
+        "name": "ProximaNova-Regular",
+        "size": 17
+    },
+    "theNewMusicTuesdayDescriptionLabelFont~dt-xxxl": {
+        "name": "ProximaNova-Regular",
+        "size": 18
+    },
+    
+    "theNewMusicTuesdayTitleLabelFont~dt-xs": {
+        "name": "ProximaNova-Regular",
+        "size": 24
+    },
+    "theNewMusicTuesdayTitleLabelFont~dt-s": {
+        "name": "ProximaNova-Regular",
+        "size": 25
+    },
+    "theNewMusicTuesdayTitleLabelFont~dt-m": {
+        "name": "ProximaNova-Regular",
+        "size": 26
+    },
+    "theNewMusicTuesdayTitleLabelFont": {
+        "name": "ProximaNova-Regular",
+        "size": 27
+    },
+    "theNewMusicTuesdayTitleLabelFont~dt-xl": {
+        "name": "ProximaNova-Regular",
+        "size": 28
+    },
+    "theNewMusicTuesdayTitleLabelFont~dt-xxl": {
+        "name": "ProximaNova-Regular",
+        "size": 29
+    },
+    "theNewMusicTuesdayTitleLabelFont~dt-xxxl": {
+        "name": "ProximaNova-Regular",
+        "size": 30
+    },
+    
+    "theNewMusicTuesdaySubtitleLabelFont~dt-xs": {
+        "name": "ProximaNova-Regular",
+        "size": 9
+    },
+    "theNewMusicTuesdaySubtitleLabelFont~dt-s": {
+        "name": "ProximaNova-Regular",
+        "size": 10
+    },
+    "theNewMusicTuesdaySubtitleLabelFont~dt-m": {
+        "name": "ProximaNova-Regular",
+        "size": 11
+    },
+    "theNewMusicTuesdaySubtitleLabelFont": {
+        "name": "ProximaNova-Regular",
+        "size": 12
+    },
+    "theNewMusicTuesdaySubtitleLabelFont~dt-xl": {
+        "name": "ProximaNova-Regular",
+        "size": 13
+    },
+    "theNewMusicTuesdaySubtitleLabelFont~dt-xxl": {
+        "name": "ProximaNova-Regular",
+        "size": 14
+    },
+    "theNewMusicTuesdaySubtitleLabelFont~dt-xxxl": {
+        "name": "ProximaNova-Regular",
+        "size": 15
+    },
+    
+    "theNewMusicTuesdayNewReleasesButtonTitleFont~dt-xs": {
+        "name": "ProximaNova-Regular",
+        "size": 10
+    },
+    "theNewMusicTuesdayNewReleasesButtonTitleFont~dt-s": {
+        "name": "ProximaNova-Regular",
+        "size": 11
+    },
+    "theNewMusicTuesdayNewReleasesButtonTitleFont~dt-m": {
+        "name": "ProximaNova-Regular",
+        "size": 12
+    },
+    "theNewMusicTuesdayNewReleasesButtonTitleFont": {
+        "name": "ProximaNova-Regular",
+        "size": 13
+    },
+    "theNewMusicTuesdayNewReleasesButtonTitleFont~dt-xl": {
+        "name": "ProximaNova-Regular",
+        "size": 14
+    },
+    "theNewMusicTuesdayNewReleasesButtonTitleFont~dt-xxl": {
+        "name": "ProximaNova-Regular",
+        "size": 15
+    },
+    "theNewMusicTuesdayNewReleasesButtonTitleFont~dt-xxxl": {
+        "name": "ProximaNova-Regular",
+        "size": 16
+    }
+}
