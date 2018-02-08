@@ -5,9 +5,9 @@ Maintainer: OSH★ <oshstar@californiamail.com>
 Depends: firmware (>= 6.0)
 Filename: ./debs/com.oshstarrepo.spotifyios6_1.8.5.105_iphoneos-arm.deb
 Size: 35579174
-MD5sum: d444cc34dd184d88825ce6f1687532ef
-SHA1: 8307e9cf3184e1e6cb3f5f4c2b18067af88599ee
-SHA256: b257226c9e8c549a23c632e4eb3cb740d0dd8da3bf467a2262710e620baa2df8
+MD5sum: 40c43a749af09d83e5fde8f416f21c2e
+SHA1: 71c471577cb88734102cfa8a83022768c0ce78c7
+SHA256: a0193aa6a2fde07d1a7ce79d1f6daab2f39d4a051c2e7f8612f24dcd0b96a3e6
 Section: Apps
 Description: By Spotify Ltd.
 Author: Spotify Ltd.
@@ -21,9 +21,9 @@ Maintainer: OSH★ <oshstar@californiamail.com>
 Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.oshstarrepo.spotify4all_2.4.0.1822_iphoneos-arm.deb
 Size: 13068
-MD5sum: 08281ed30b7acbe975307831f6e6ceda
-SHA1: dbc8a9d81903433a69084d836aeed5bdbb62bb94
-SHA256: 8318bb2cbd092bb2f3ea2e6eaf8f378e44d994c7e76a3d6c15b22493d4288b3a
+MD5sum: 6f05c7c3d51f557be3007276c9d4b901
+SHA1: 2162d5dc98495600a5bb2701cdf3a6d8a9fba402
+SHA256: 29d160e06bbc8640419a1a6611bfa4178e4ef0c1331589723fbfb6c4954579fd
 Section: Tweaks
 Homepage: http://www.oshstararchive.wordpress.com/
 Description: Spotify Premium features for free.
