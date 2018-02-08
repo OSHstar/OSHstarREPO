@@ -1,9 +1,0 @@
-Architecture: iphoneos-arm
-Author: OSH★
-Depiction: https://github.com/OSHstar/OSHstar.github.io
-Description: Adds Icon Images
-Maintainer: OSH★ <oshstar@californiamail.com>
-Name: icons
-Package: com.OSHstarREPO.icons
-Section: Tweaks
-Version: 1.1
